@@ -1,0 +1,2 @@
+# Aesthetic
+Theme for discord
