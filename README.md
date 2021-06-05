@@ -1,2 +1,2 @@
 # Aesthetic
-Theme for discord
+Yauda iya
